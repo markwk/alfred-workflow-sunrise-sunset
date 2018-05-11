@@ -1,3 +1,4 @@
-# Alfred Workflow forSunset and Sunrise Times
+# Alfred Workflow for Sunset and Sunrise Times
 
-Initial hacked together code
+* Get user location coordinates from ipaddress using http://freegeoip.net/json
+* Get timezone and sunrise and sunset time use geonames.org
